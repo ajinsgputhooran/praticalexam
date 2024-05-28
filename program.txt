@@ -1,0 +1,7 @@
+x=2
+y=14
+if x+y=0 
+printf("the sum of number is "x%y);
+else 
+printf("invlid choice ")
+end 
